@@ -1,13 +1,13 @@
 # NHS England Operational Performance Dashboard
 ### Oct 2025 – Mar 2026 | Python · Tableau · NHS Open Data
 
-[![Dashboard](https://img.shields.io/badge/View%20Dashboard-Tableau%20Public-blue)](YOUR_TABLEAU_LINK_HERE)
+[![Dashboard](https://img.shields.io/badge/View%20Dashboard-Tableau%20Public-blue)](https://public.tableau.com/app/profile/dorjada.halili/viz/NHSEnglandOperationalPerformanceDashboardOct25-Mar26/NHSEnglandOperationalPerformanceDashboardOct2025Mar2026)
 
 ## Overview
 An end-to-end data analytics project analysing NHS England operational performance across 6 months of real government data. Built using Python for data cleaning and Tableau Public for interactive visualisation.
 
 ## Live Dashboard
-[View the interactive dashboard on Tableau Public](YOUR_TABLEAU_LINK_HERE)
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/dorjada.halili/viz/NHSEnglandOperationalPerformanceDashboardOct25-Mar26/NHSEnglandOperationalPerformanceDashboardOct2025Mar2026)
 
 ## Key Findings
 - **Trauma & Orthopaedic** has the largest waiting list at **5.1 million patients** — 38% larger than any other specialty
